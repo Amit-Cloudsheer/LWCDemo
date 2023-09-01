@@ -1,0 +1,26 @@
+<template>
+    <div class={cssClass}>
+        <label if:true={isLabelVisible} class="slds-form-element__label">
+            <abbr if:true={required} title="required" class="slds-required">*</abbr>{label}
+        </label>
+
+        <div if:false={disabled} class="slds-form-element__control">
+            <select class="slds-select" onchange={handleSelect}>
+                <template for:each={_options} for:item="option">
+                    <option key={option.value} value={option.value}>{option.label}</option>
+                </template>
+            </select>
+        </div>
+
+        <div if:true={disabled} class="slds-form-element__control">
+            <select class="slds-select" disabled>
+                <template for:each={_options} for:item="option">
+                    <option key={option.value} value={option.value}>{option.label}</option>
+                </template>
+            </select>
+        </div>
+
+        <div if:true={_helpMessage} data-help-text class="slds-form-element__help" aria-live="assertive">{_helpMessage}
+        </div>
+    </div>
+</template>
