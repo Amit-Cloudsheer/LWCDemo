@@ -47,7 +47,7 @@
 
 # 10 Custom Lookup Example
 [Demo Code Parent LWC : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/demoCustomLookup) <br/>
-[Child LWC : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/lookup)
+[Child LWC : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/lookup) <br/>
 [Apex: ](https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/force-app/main/default/classes/LookupController.cls)<br/><br/>
 <img width="409" alt="image" src="https://github.com/Amit-Cloudsheer/LWCDemo/assets/111428247/9dcfc74a-c8cd-4cca-8ec2-cd23b551079c">
 
