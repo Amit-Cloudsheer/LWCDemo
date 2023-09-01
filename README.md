@@ -45,7 +45,7 @@
 [Child LWC : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/comboBox)<br/><br/>
 <img width="452" alt="image" src="https://github.com/Amit-Cloudsheer/LWCDemo/assets/111428247/cbb2b7e1-9054-45bd-8728-b7855244fc70">
 
-# Custom Lookup Example
+# 10 Custom Lookup Example
 [Demo Code Parent LWC : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/demoCustomLookup) <br/>
 [Child LWC : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/lookup)
 [Apex: ](https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/force-app/main/default/classes/LookupController.cls)<br/><br/>
