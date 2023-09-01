@@ -36,6 +36,10 @@
 <img width="909" alt="image" src="https://github.com/Amit-Cloudsheer/LWCDemo/assets/111428247/bec44412-2f09-4a5d-8982-cefe8d15158b">
 <img width="907" alt="image" src="https://github.com/Amit-Cloudsheer/LWCDemo/assets/111428247/a116fd55-751f-45c9-9618-22ab6ada17db">
 
+# 8 StopWatch Example
+<img width="441" alt="image" src="https://github.com/Amit-Cloudsheer/LWCDemo/assets/111428247/3b6f085d-203d-40e3-a94c-952a1f5dbe7b">
+
+
 
 
 
