@@ -1,0 +1,19 @@
+<template>
+    <lightning-card title="Notification" icon-name="custom:custom19">
+        <!-- Destructive variant: Identifies a potentially negative action -->
+        <lightning-button variant="destructive" label="Error" onclick={showErrorToast}
+            class="slds-var-m-left_x-small"></lightning-button>
+
+        <!-- Success variant: Identifies a successful action -->
+        <lightning-button variant="success" label="Success" onclick={showSuccessToast}
+            class="slds-var-m-left_x-small"></lightning-button>
+
+        <!-- Destructive text variant: Identifies a potentially negative action, but has a lighter look -->
+        <lightning-button variant="destructive-text" label="Warning" onclick={showWarningToast}
+            class="slds-var-m-left_x-small"></lightning-button>
+
+        <!-- Brand outline variant: Identifies the primary action in a group of buttons, but has a lighter look -->
+        <lightning-button variant="brand-outline" label="Info" onclick={showInfoToast}
+            class="slds-var-m-left_x-small slds-var-m-top_x-small"></lightning-button>
+    </lightning-card>
+</template>
