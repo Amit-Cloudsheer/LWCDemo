@@ -20,7 +20,7 @@ To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place
 
 ***
 
-<h3 align="center">ASK AMIT </h3>
+<h3 align="center">JOIN AMIT </h3>
 <p align="center">
 <img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/AskAmit/AskAmit.jpg" height="200" width="200"></img>
 </p>
