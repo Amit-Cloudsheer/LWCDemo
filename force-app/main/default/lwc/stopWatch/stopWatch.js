@@ -1,4 +1,4 @@
-import { LightningElement, track } from 'lwc';
+import { LightningElement } from 'lwc';
 
 export default class Stopwatch extends LightningElement {
     showStartBtn = true;
@@ -10,8 +10,7 @@ export default class Stopwatch extends LightningElement {
         window.addEventListener('click', this.handleShowMenu);
     }
 
-
-    start(event) {
+    start() {
         this.showStartBtn = false;
         var parentThis = this;
 
@@ -31,12 +30,12 @@ export default class Stopwatch extends LightningElement {
         }, 100);
     }
 
-    stop(event) {
+    stop() {
         this.showStartBtn = true;
         clearInterval(this.timeIntervalInstance);
     }
 
-    reset(event) {
+    reset() {
         this.showStartBtn = true;
         this.timeVal = '0:0:0:0';
         this.totalMilliseconds = 0;

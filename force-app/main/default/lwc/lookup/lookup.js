@@ -24,11 +24,7 @@ export default class Lookup extends LightningElement {
     selectedSecondaryField;
 
     connectedCallback() {
-        /*this.objecttype = 'Product2';
-        this.label = 'product';
-        this.searchagainst = 'Name'; // 
-        this.secondaryfield = null;
-        this.lookupicon = 'standard:product';*/
+
     }
 
     get isLabelVisible() {
