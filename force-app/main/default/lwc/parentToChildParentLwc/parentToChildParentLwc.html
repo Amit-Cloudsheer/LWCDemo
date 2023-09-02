@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title="Communication From Parent To Child LWC">
+        <lightning-card title="Parent LWC">
+            <lightning-button variant="brand" label="Send Message" title="Send Message" slot="actions"
+                onclick={parentHandler}></lightning-button>
+        </lightning-card>
+    </lightning-card>
+    <c-parent-to-child-child-lwc onsendmessage={parentHandler}></c-parent-to-child-child-lwc>
+
+</template>
