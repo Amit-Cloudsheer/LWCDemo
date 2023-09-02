@@ -5,10 +5,22 @@
 My passion for Salesforce extends beyond my professional life; I also enjoy mentoring and guiding the next generation of Salesforce professionals. I am enthusiastic about helping others succeed in their Salesforce careers and I want to inspire  many just starting out on their salesforce journey.
 <br/><br/>
 To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place where we’re all about unleashing the potential of young talent. ’m on a mission to show them the ropes and help them soar in their careers. So far, I’ve had the privilege of mentoring over 50 bright newcomers who’ve gone on to secure awesome roles in different organizations.</h4>
+
+***
 <h3 align="left">Connect with me  </h3>
 <a href="https://www.linkedin.com/in/amityadavsfdc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://github.com/Amit-Cloudsheer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
-<a href="https://chat.whatsapp.com/BbkKxg2TdqBGbvrBj1bHQG"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
+<a href="https://chat.whatsapp.com/BbkKxg2TdqBGbvrBj1bHQG"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
+</a>
+
+***
+
+<h3 align="center">ASK AMIT </h3>
+<p align="center">
+<img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/AskAmit/AskAmit.jpg" height="200" width="200"></img>
+</p>
+
+***
 
 <h1 align="center"> LWC Demo </h1>
 
