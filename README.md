@@ -88,8 +88,9 @@ To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place
 * [Child LWC Link : ](https://github.com/Amit-Cloudsheer/LWCDemo/tree/main/force-app/main/default/lwc/childToParentChildLwc)<br/><br/>
 <img width="461" alt="image" src="https://github.com/Amit-Cloudsheer/LWCDemo/assets/111428247/ffe80f71-b8b5-4645-87be-4bfeb17dd685"><br/>
 <br/><br/>
-|:--------------|:-------------:|--------------:||:--------------|:-------------:|--------------:||:--------------|<br/>
-|:--------------|:-------------:|--------------:||:--------------|:-------------:|--------------:||:--------------|<br/>
+
+***
+***
 
 
 
