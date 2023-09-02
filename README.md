@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://www.cloudsheer.com/"><img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/AskAmit/Cloudsheer.jpg" height="60" width="200"></img></a>
+</p>
 <h1 align="center">Hi :wave:, I'm Amit yadav</h1>
 <h3 align="center">A superstar of salesforce</h3>
 <h4 align="center">I am a Salesforce pro with over a decade of experience and a whopping 18+ certifications. I am on a mission to become a Certified Technical Architect (CTA) by next year, showcasing my dedication to mastering Salesforce. My  expertise and passion for Salesforce makes me a standout leader in the field.
