@@ -1,5 +1,6 @@
+
 <p align="center">
-<a href="https://www.cloudsheer.com/"><img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/AskAmit/Cloudsheer.jpg" height="60" width="200"></img></a>
+<a href="https://www.cloudsheer.com/"><img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/JoinAmit/Cloudsheer.jpg" height="60" width="200"></img></a>
 </p>
 <h1 align="center">Hi :wave:, I'm Amit yadav</h1>
 <h3 align="center">A superstar of salesforce</h3>
@@ -22,7 +23,7 @@ To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place
 
 <h3 align="center">JOIN AMIT </h3>
 <p align="center">
-<img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/AskAmit/AskAmit.jpg" height="200" width="200"></img>
+<img src="https://github.com/Amit-Cloudsheer/LWCDemo/blob/main/JoinAmit/JoinAmit.jpg" height="200" width="200"></img>
 </p>
 
 ***
