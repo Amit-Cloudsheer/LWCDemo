@@ -12,7 +12,7 @@ To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place
 <a href="https://github.com/Amit-Cloudsheer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <a href="https://chat.whatsapp.com/BbkKxg2TdqBGbvrBj1bHQG"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img>
 </a>
-<a href="https://www.upwork.com/freelancers/amityadavsfdc"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></img>
+<!--<a href="https://www.upwork.com/freelancers/amityadavsfdc"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white"></img>-->
 </a>
 
 ***
