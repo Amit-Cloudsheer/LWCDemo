@@ -3,11 +3,11 @@
 </p>
 <h1 align="center">Hi :wave:, I'm Amit yadav</h1>
 <h3 align="center">A superstar of salesforce</h3>
-<h5 align="center">I am a Salesforce pro with over a decade of experience and a whopping 18+ certifications. I am on a mission to become a Certified Technical Architect (CTA) by next year, showcasing my dedication to mastering Salesforce. My  expertise and passion for Salesforce makes me a standout leader in the field.
+<p align="center">I am a Salesforce pro with over a decade of experience and a whopping 18+ certifications. I am on a mission to become a Certified Technical Architect (CTA) by next year, showcasing my dedication to mastering Salesforce. My  expertise and passion for Salesforce makes me a standout leader in the field.
 <br/><br/>
 My passion for Salesforce extends beyond my professional life; I also enjoy mentoring and guiding the next generation of Salesforce professionals. I am enthusiastic about helping others succeed in their Salesforce careers and I want to inspire  many just starting out on their salesforce journey.
 <br/><br/>
-To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place where we’re all about unleashing the potential of young talent. ’m on a mission to show them the ropes and help them soar in their careers. So far, I’ve had the privilege of mentoring over 50 bright newcomers who’ve gone on to secure awesome roles in different organizations.</h5>
+To make my dreams a reality, I teamed up to start Cloudsheer Consulting, a place where we’re all about unleashing the potential of young talent. ’m on a mission to show them the ropes and help them soar in their careers. So far, I’ve had the privilege of mentoring over 50 bright newcomers who’ve gone on to secure awesome roles in different organizations.</p>
 
 ***
 <h3 align="left">Connect with me  </h3>
